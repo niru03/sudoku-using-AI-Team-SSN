@@ -18,7 +18,7 @@ This Python project combines Pygame for the graphical interface and PyCharm as t
 Clone the project repository:
 bash
 Copy code
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/niru03/sudoku-using-AI-Team-SSN.git
 cd sudoku-solver
 Running the Sudoku Solver
 Open the project in PyCharm:
@@ -43,6 +43,6 @@ Fork the repository.
 Make your changes.
 Submit a pull request.
 Support and Feedback
-For any questions or feedback, contact [your-email@example.com].
+For any questions or feedback, contact [nmart12@unh.newhaven.edu.com].
 
 Happy Sudoku solving!
